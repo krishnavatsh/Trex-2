@@ -1,2 +1,2 @@
-# Trex-2
-Game
+# colorful-trex
+running dino
